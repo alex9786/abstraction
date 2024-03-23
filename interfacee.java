@@ -38,7 +38,7 @@ public class interfacee {
   C c1=new C();
     c1.display();
     c1.main(" alex ",21);
-	c1.bill(" A+  ",4.5);
+    c1.bill(" A+  ",4.5);
 	}
 
 }
